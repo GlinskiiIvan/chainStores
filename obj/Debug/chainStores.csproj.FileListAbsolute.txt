@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\chainStores\bin\Debug\chainStores.exe.config
+C:\Users\user\source\repos\chainStores\bin\Debug\chainStores.exe
+C:\Users\user\source\repos\chainStores\bin\Debug\chainStores.pdb
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.Properties.Resources.resources
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.csproj.GenerateResource.cache
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.exe
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.pdb
+C:\Users\user\source\repos\chainStores\obj\Debug\chainStores.Form1.resources

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61e0e3bb-eab2-4580-aa36-9dcf9d2d969a": {
+      "ProjectGuid": "61e0e3bb-eab2-4580-aa36-9dcf9d2d969a",
+      "DisplayName": "chainStores",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
